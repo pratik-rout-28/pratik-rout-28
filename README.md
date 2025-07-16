@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Pratik Rout</h1>
 <h3 align="center">Aspiring Full-Stack Developer | AI Enthusiast</h3>
